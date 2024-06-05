@@ -1,4 +1,4 @@
 # BYOB_Interactive_Game
 BYOB fishing game,penalty shootout and quiz.<br/>
-Run the application by going to this website https://snap.berkeley.edu/snap/snap.html
+Run the application by going to this website https://snap.berkeley.edu/snap/snap.html<br/>
 Then load the downloaded .ypr file
